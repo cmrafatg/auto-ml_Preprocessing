@@ -1,0 +1,2211 @@
+id,name
+100,Module Board Temperature
+1000,Energy AC
+1011,Active Power AC
+1017,Module Board Temperature
+1021,Active Power AC
+1027,Module Board Temperature
+1031,Active Power AC
+1037,Module Board Temperature
+104,Active Power AC
+1041,DC Current 01
+1042,DC Current 02
+1043,DC Current 03
+1044,DC Current 04
+1045,DC Current 05
+1046,DC Current 06
+1047,DC Current 07
+1048,DC Current 08
+1049,DC Current 09
+1050,DC Current 10
+1051,DC Current 11
+1056,DC Current 01
+1057,DC Current 02
+1058,DC Current 03
+1059,DC Current 04
+1060,DC Current 05
+1061,DC Current 06
+1062,DC Current 07
+1063,DC Current 08
+1064,DC Current 09
+1065,DC Current 10
+1066,DC Current 11
+1071,DC Current 12
+1073,Active Power
+1074,Energy AC
+1085,Active Power AC
+109,Module Board Temperature
+1091,Module Board Temperature
+1095,Active Power AC
+1101,Module Board Temperature
+1105,Active Power AC
+1111,Module Board Temperature
+1115,DC Current 01
+1116,DC Current 02
+1117,DC Current 03
+1118,DC Current 04
+1119,DC Current 05
+1120,DC Current 06
+1121,DC Current 07
+1122,DC Current 08
+1123,DC Current 09
+1124,DC Current 10
+1125,DC Current 11
+1130,DC Current 01
+1131,DC Current 02
+1132,DC Current 03
+1133,DC Current 04
+1134,DC Current 05
+1135,DC Current 06
+1136,DC Current 07
+1137,DC Current 08
+1138,DC Current 09
+1139,DC Current 10
+1140,DC Current 11
+1141,DC Current 12
+1146,Active Power
+1147,Energy AC
+115,DC Current 01
+1158,Active Power AC
+1164,Module Board Temperature
+1168,Active Power AC
+1174,Module Board Temperature
+1178,Active Power AC
+118,DC Current 02
+1184,Module Board Temperature
+1188,DC Current 01
+1189,DC Current 02
+119,DC Current 03
+1190,DC Current 03
+1191,DC Current 04
+1192,DC Current 05
+1193,DC Current 06
+1194,DC Current 07
+1195,DC Current 08
+1196,DC Current 09
+1197,DC Current 10
+1198,DC Current 11
+120,DC Current 05
+1203,DC Current 01
+1204,DC Current 02
+1205,DC Current 03
+1206,DC Current 04
+1207,DC Current 05
+1208,DC Current 06
+1209,DC Current 07
+1210,DC Current 08
+1211,DC Current 09
+1212,DC Current 10
+1213,DC Current 11
+1214,DC Current 12
+1219,Active Power
+1220,Energy AC
+123,DC Current 04
+1231,Active Power AC
+1237,Module Board Temperature
+1241,Active Power AC
+1247,Module Board Temperature
+1251,Active Power AC
+1257,Module Board Temperature
+1261,DC Current 01
+1262,DC Current 02
+1263,DC Current 03
+1264,DC Current 04
+1265,DC Current 05
+1266,DC Current 06
+1267,DC Current 07
+1268,DC Current 08
+1269,DC Current 09
+127,DC Current 11
+1270,DC Current 10
+1271,DC Current 11
+1276,DC Current 01
+1277,DC Current 02
+1278,DC Current 03
+1279,DC Current 04
+128,DC Current 10
+1280,DC Current 05
+1281,DC Current 06
+1282,DC Current 07
+1283,DC Current 08
+1284,DC Current 09
+1285,DC Current 10
+1286,DC Current 11
+1287,DC Current 12
+129,DC Current 09
+1292,Active Power
+1293,Energy AC
+130,DC Current 08
+1304,Active Power AC
+131,DC Current 07
+1310,Module Board Temperature
+1314,Active Power AC
+1320,Module Board Temperature
+1324,Active Power AC
+1330,Module Board Temperature
+1334,DC Current 01
+1335,DC Current 02
+1336,DC Current 03
+1337,DC Current 04
+1338,DC Current 05
+1339,DC Current 06
+1340,DC Current 07
+1341,DC Current 08
+1342,DC Current 09
+1343,DC Current 10
+1344,DC Current 11
+1349,DC Current 01
+1350,DC Current 02
+1351,DC Current 03
+1352,DC Current 04
+1353,DC Current 05
+1354,DC Current 06
+1355,DC Current 07
+1356,DC Current 08
+1357,DC Current 09
+1358,DC Current 10
+1359,DC Current 11
+1360,DC Current 12
+1365,Active Power
+1366,Energy AC
+1377,Active Power AC
+1383,Module Board Temperature
+1387,Active Power AC
+1393,Module Board Temperature
+1397,Active Power AC
+140,DC Current 06
+1403,Module Board Temperature
+1407,DC Current 01
+1408,DC Current 02
+1409,DC Current 03
+1410,DC Current 04
+1411,DC Current 05
+1412,DC Current 06
+1413,DC Current 07
+1414,DC Current 08
+1415,DC Current 09
+1416,DC Current 10
+1417,DC Current 11
+142,DC Current 01
+1422,DC Current 01
+1423,DC Current 02
+1424,DC Current 03
+1425,DC Current 04
+1426,DC Current 05
+1427,DC Current 06
+1428,DC Current 07
+1429,DC Current 08
+1430,DC Current 09
+1431,DC Current 10
+1432,DC Current 11
+1433,DC Current 12
+1438,Active Power
+1439,Energy AC
+145,DC Current 02
+1450,Active Power AC
+1456,Module Board Temperature
+146,DC Current 03
+1460,Active Power AC
+1466,Module Board Temperature
+147,DC Current 05
+1470,Active Power AC
+1476,Module Board Temperature
+148,DC Current 04
+1480,DC Current 01
+1481,DC Current 02
+1482,DC Current 03
+1483,DC Current 04
+1484,DC Current 05
+1485,DC Current 06
+1486,DC Current 07
+1487,DC Current 08
+1488,DC Current 09
+1489,DC Current 10
+149,DC Current 12
+1490,DC Current 11
+1495,DC Current 01
+1496,DC Current 02
+1497,DC Current 03
+1498,DC Current 04
+1499,DC Current 05
+150,DC Current 11
+1500,DC Current 06
+1501,DC Current 07
+1502,DC Current 08
+1503,DC Current 09
+1504,DC Current 10
+1505,DC Current 11
+1506,DC Current 12
+151,DC Current 10
+1511,Active Power
+1512,Energy AC
+152,DC Current 09
+1523,Active Power AC
+1529,Module Board Temperature
+153,DC Current 08
+1533,Active Power AC
+1539,Module Board Temperature
+154,DC Current 07
+1543,Active Power AC
+1549,Module Board Temperature
+155,DC Current 06
+1553,DC Current 01
+1554,DC Current 02
+1555,DC Current 03
+1556,DC Current 04
+1557,DC Current 05
+1558,DC Current 06
+1559,DC Current 07
+156,Energia Prodotta Display
+1560,DC Current 08
+1561,DC Current 09
+1562,DC Current 10
+1563,DC Current 11
+1568,DC Current 01
+1569,DC Current 02
+157,Energia Prelevata Display
+1570,DC Current 03
+1571,DC Current 04
+1572,DC Current 05
+1573,DC Current 06
+1574,DC Current 07
+1575,DC Current 08
+1576,DC Current 09
+1577,DC Current 10
+1578,DC Current 11
+1579,DC Current 12
+158,Active Power AC
+1584,Active Power
+1585,Energy AC
+1596,Active Power AC
+1602,Module Board Temperature
+1606,Active Power AC
+1612,Module Board Temperature
+1616,Active Power AC
+1622,Module Board Temperature
+1626,DC Current 01
+1627,DC Current 02
+1628,DC Current 03
+1629,DC Current 04
+1630,DC Current 05
+1631,DC Current 06
+1632,DC Current 07
+1633,DC Current 08
+1634,DC Current 09
+1635,DC Current 10
+1636,DC Current 11
+1641,DC Current 01
+1642,DC Current 02
+1643,DC Current 03
+1644,DC Current 04
+1645,DC Current 05
+1646,DC Current 06
+1647,DC Current 07
+1648,DC Current 08
+1649,DC Current 09
+1650,DC Current 10
+1651,DC Current 11
+1657,Active Power
+1658,Energy AC
+1669,Active Power AC
+1675,Module Board Temperature
+1679,Active Power AC
+1685,Module Board Temperature
+1689,Active Power AC
+1695,Module Board Temperature
+1699,DC Current 01
+1700,DC Current 02
+1701,DC Current 03
+1702,DC Current 04
+1703,DC Current 05
+1704,DC Current 06
+1705,DC Current 07
+1706,DC Current 08
+1707,DC Current 09
+1708,DC Current 10
+1709,DC Current 11
+1714,DC Current 01
+1715,DC Current 02
+1716,DC Current 03
+1717,DC Current 04
+1718,DC Current 05
+1719,DC Current 06
+172,Temperatura Ambiente
+1720,DC Current 07
+1721,DC Current 08
+1722,DC Current 09
+1723,DC Current 10
+1724,DC Current 11
+173,Temperatura Moduli
+1730,Active Power
+1731,Energy AC
+174,Temperatura Cabina
+1742,Active Power AC
+1748,Module Board Temperature
+175,Temperatura Trafo 1
+1752,Active Power AC
+1758,Module Board Temperature
+176,Temperatura Trafo 2
+1762,Active Power AC
+1768,Module Board Temperature
+177,Temperatura Trafo 3
+1772,DC Current 01
+1773,DC Current 02
+1774,DC Current 03
+1775,DC Current 04
+1776,DC Current 05
+1777,DC Current 06
+1778,DC Current 07
+1779,DC Current 08
+1780,DC Current 09
+1781,DC Current 10
+1782,DC Current 11
+1783,DC Current 12
+1788,DC Current 01
+1789,DC Current 02
+1790,DC Current 03
+1791,DC Current 04
+1792,DC Current 05
+1793,DC Current 06
+1794,DC Current 07
+1795,DC Current 08
+1796,DC Current 09
+1797,DC Current 10
+1798,DC Current 11
+1803,Active Power
+1804,Energy AC
+1815,Active Power AC
+182,Active Power
+1821,Module Board Temperature
+1825,Active Power AC
+183,Energy AC
+1831,Module Board Temperature
+1835,Active Power AC
+1841,Module Board Temperature
+1845,DC Current 01
+1846,DC Current 02
+1847,DC Current 03
+1848,DC Current 04
+1849,DC Current 05
+1850,DC Current 06
+1851,DC Current 07
+1852,DC Current 08
+1853,DC Current 09
+1854,DC Current 10
+1855,DC Current 11
+1860,DC Current 01
+1861,DC Current 02
+1862,DC Current 03
+1863,DC Current 04
+1864,DC Current 05
+1865,DC Current 06
+1866,DC Current 07
+1867,DC Current 08
+1868,DC Current 09
+1869,DC Current 10
+1870,DC Current 11
+1871,DC Current 12
+1876,Active Power
+1877,Energy AC
+1888,Active Power AC
+1894,Module Board Temperature
+1898,Active Power AC
+19,Energy AC
+1904,Module Board Temperature
+1908,Active Power AC
+1914,Module Board Temperature
+1918,DC Current 01
+1919,DC Current 02
+1920,DC Current 03
+1921,DC Current 04
+1922,DC Current 05
+1923,DC Current 06
+1924,DC Current 07
+1925,DC Current 08
+1926,DC Current 09
+1927,DC Current 10
+1928,DC Current 11
+1933,DC Current 01
+1934,DC Current 02
+1935,DC Current 03
+1936,DC Current 04
+1937,DC Current 05
+1938,DC Current 06
+1939,DC Current 07
+194,Active Power AC
+1940,DC Current 08
+1941,DC Current 09
+1942,DC Current 10
+1943,DC Current 11
+1944,DC Current 12
+1949,Active Power
+1950,Energy AC
+1961,Active Power AC
+1967,Module Board Temperature
+1971,Active Power AC
+1977,Module Board Temperature
+1981,Active Power AC
+1987,Module Board Temperature
+1991,DC Current 01
+1992,DC Current 02
+1993,DC Current 03
+1994,DC Current 04
+1995,DC Current 05
+1996,DC Current 06
+1997,DC Current 07
+1998,DC Current 08
+1999,DC Current 09
+200,Module Board Temperature
+2000,DC Current 10
+2001,DC Current 11
+2006,DC Current 01
+2007,DC Current 02
+2008,DC Current 03
+2009,DC Current 04
+2010,DC Current 05
+2011,DC Current 06
+2012,DC Current 07
+2013,DC Current 08
+2014,DC Current 09
+2015,DC Current 10
+2016,DC Current 11
+2017,DC Current 12
+2022,Active Power AC
+2026,Energy AC
+2036,Temperatura Trafo 1
+2037,Temperatura Trafo 2
+2038,Temperatura Trafo 3
+2039,Temperatura Locale AC
+204,Active Power AC
+2040,Temperatura Locale DC
+2078,Active Power
+2079,Energy AC
+2090,Active Power AC
+2096,Module Board Temperature
+210,Module Board Temperature
+2100,Active Power AC
+2106,Module Board Temperature
+2110,Active Power AC
+2116,Module Board Temperature
+2120,DC Current 01
+2121,DC Current 02
+2122,DC Current 03
+2123,DC Current 04
+2124,DC Current 05
+2125,DC Current 06
+2126,DC Current 07
+2127,DC Current 08
+2128,DC Current 09
+2129,DC Current 10
+2130,DC Current 11
+2135,DC Current 01
+2136,DC Current 02
+2137,DC Current 03
+2138,DC Current 04
+2139,DC Current 05
+214,Active Power AC
+2140,DC Current 06
+2141,DC Current 07
+2142,DC Current 08
+2143,DC Current 09
+2144,DC Current 10
+2145,DC Current 11
+2151,Active Power
+2152,Energy AC
+2163,Active Power AC
+2169,Module Board Temperature
+2173,Active Power AC
+2179,Module Board Temperature
+2183,Active Power AC
+2189,Module Board Temperature
+2193,DC Current 01
+2194,DC Current 02
+2195,DC Current 03
+2196,DC Current 04
+2197,DC Current 05
+2198,DC Current 06
+2199,DC Current 07
+220,Module Board Temperature
+2200,DC Current 08
+2201,DC Current 09
+2202,DC Current 10
+2203,DC Current 11
+2208,DC Current 01
+2209,DC Current 02
+2210,DC Current 03
+2211,DC Current 04
+2212,DC Current 05
+2213,DC Current 06
+2214,DC Current 07
+2215,DC Current 08
+2216,DC Current 09
+2217,DC Current 10
+2218,DC Current 11
+2219,DC Current 12
+2224,Active Power
+2225,Energy AC
+2236,Active Power AC
+224,DC Current 01
+2242,Module Board Temperature
+2246,Active Power AC
+225,DC Current 02
+2252,Module Board Temperature
+2256,Active Power AC
+226,DC Current 03
+2262,Module Board Temperature
+2266,DC Current 01
+2267,DC Current 02
+2268,DC Current 03
+2269,DC Current 04
+227,DC Current 04
+2270,DC Current 05
+2271,DC Current 06
+2272,DC Current 07
+2273,DC Current 08
+2274,DC Current 09
+2275,DC Current 10
+2276,DC Current 11
+228,DC Current 05
+2281,DC Current 01
+2282,DC Current 02
+2283,DC Current 03
+2284,DC Current 04
+2285,DC Current 05
+2286,DC Current 06
+2287,DC Current 07
+2288,DC Current 08
+2289,DC Current 09
+229,DC Current 06
+2290,DC Current 10
+2291,DC Current 11
+2292,DC Current 12
+230,DC Current 07
+231,DC Current 08
+232,DC Current 09
+233,DC Current 10
+2339,DC Current 01
+234,DC Current 11
+2340,DC Current 02
+2341,DC Current 03
+2342,DC Current 04
+2343,DC Current 05
+2344,DC Current 06
+2345,DC Current 07
+2346,DC Current 08
+2347,DC Current 09
+2348,DC Current 10
+2349,DC Current 11
+2354,DC Current 01
+2355,DC Current 02
+2356,DC Current 03
+2357,DC Current 04
+2358,DC Current 05
+2359,DC Current 06
+2360,DC Current 07
+2361,DC Current 08
+2362,DC Current 09
+2363,DC Current 10
+2364,DC Current 11
+2365,DC Current 12
+2370,Active Power
+2371,Energy AC
+2382,Active Power AC
+2388,Module Board Temperature
+2392,Active Power AC
+2398,Module Board Temperature
+240,DC Current 01
+2402,Active Power AC
+2408,Module Board Temperature
+241,DC Current 02
+2412,DC Current 01
+2413,DC Current 02
+2414,DC Current 03
+2415,DC Current 04
+2416,DC Current 05
+2417,DC Current 06
+2418,DC Current 07
+2419,DC Current 08
+242,DC Current 03
+2420,DC Current 09
+2421,DC Current 10
+2422,DC Current 11
+2427,DC Current 01
+2428,DC Current 02
+2429,DC Current 03
+243,DC Current 04
+2430,DC Current 04
+2431,DC Current 05
+2432,DC Current 06
+2433,DC Current 07
+2434,DC Current 08
+2435,DC Current 09
+2436,DC Current 10
+2437,DC Current 11
+2438,DC Current 12
+244,DC Current 05
+2443,Active Power
+2444,Energy AC
+245,DC Current 06
+2455,Active Power AC
+246,DC Current 07
+2461,Module Board Temperature
+2465,Active Power AC
+247,DC Current 08
+2471,Module Board Temperature
+2475,Active Power AC
+248,DC Current 09
+2481,Module Board Temperature
+2485,DC Current 01
+2486,DC Current 02
+2487,DC Current 03
+2488,DC Current 04
+2489,DC Current 05
+249,DC Current 10
+2490,DC Current 06
+2491,DC Current 07
+2492,DC Current 08
+2493,DC Current 09
+2494,DC Current 10
+2495,DC Current 11
+250,DC Current 11
+2500,DC Current 01
+2501,DC Current 02
+2502,DC Current 03
+2503,DC Current 04
+2504,DC Current 05
+2505,DC Current 06
+2506,DC Current 07
+2507,DC Current 08
+2508,DC Current 09
+2509,DC Current 10
+251,DC Current 12
+2510,DC Current 11
+2511,DC Current 12
+2516,Active Power
+2517,Energy AC
+2528,Active Power AC
+2534,Module Board Temperature
+2538,Active Power AC
+2544,Module Board Temperature
+2548,Active Power AC
+2554,Module Board Temperature
+2558,DC Current 01
+2559,DC Current 02
+2560,DC Current 03
+2561,DC Current 04
+2562,DC Current 05
+2563,DC Current 06
+2564,DC Current 07
+2565,DC Current 08
+2566,DC Current 09
+2567,DC Current 10
+2568,DC Current 11
+257,Active Power
+2573,DC Current 01
+2574,DC Current 02
+2575,DC Current 03
+2576,DC Current 04
+2577,DC Current 05
+2578,DC Current 06
+2579,DC Current 07
+258,Energy AC
+2580,DC Current 08
+2581,DC Current 09
+2582,DC Current 10
+2583,DC Current 11
+2584,DC Current 12
+2589,Active Power
+2590,Energy AC
+2601,Active Power AC
+2607,Module Board Temperature
+2611,Active Power AC
+2617,Module Board Temperature
+2621,Active Power AC
+2627,Module Board Temperature
+2631,DC Current 01
+2632,DC Current 02
+2633,DC Current 03
+2634,DC Current 04
+2635,DC Current 05
+2636,DC Current 06
+2637,DC Current 07
+2638,DC Current 08
+2639,DC Current 09
+2640,DC Current 10
+2641,DC Current 11
+2646,DC Current 01
+2647,DC Current 02
+2648,DC Current 03
+2649,DC Current 04
+2650,DC Current 05
+2651,DC Current 06
+2652,DC Current 07
+2653,DC Current 08
+2654,DC Current 09
+2655,DC Current 10
+2656,DC Current 11
+2661,Active Power
+2662,Energy AC
+2673,Active Power AC
+2679,Module Board Temperature
+2683,Active Power AC
+2689,Module Board Temperature
+269,Active Power AC
+2693,Active Power AC
+2699,Module Board Temperature
+2703,DC Current 01
+2704,DC Current 02
+2705,DC Current 03
+2706,DC Current 04
+2707,DC Current 05
+2708,DC Current 06
+2709,DC Current 07
+2710,DC Current 08
+2711,DC Current 09
+2712,DC Current 10
+2713,DC Current 11
+2718,DC Current 01
+2719,DC Current 02
+2720,DC Current 03
+2721,DC Current 04
+2722,DC Current 05
+2723,DC Current 06
+2724,DC Current 07
+2725,DC Current 08
+2726,DC Current 09
+2727,DC Current 10
+2728,DC Current 11
+2733,Active Power
+2734,Energy AC
+2745,Active Power AC
+275,Module Board Temperature
+2751,Module Board Temperature
+2755,Active Power AC
+2761,Module Board Temperature
+2765,Active Power AC
+2771,Module Board Temperature
+2775,DC Current 01
+2776,DC Current 02
+2777,DC Current 03
+2778,DC Current 04
+2779,DC Current 05
+2780,DC Current 06
+2781,DC Current 07
+2782,DC Current 08
+2783,DC Current 09
+2784,DC Current 10
+2785,DC Current 11
+2786,DC Current 12
+279,Active Power AC
+2791,DC Current 01
+2792,DC Current 02
+2793,DC Current 03
+2794,DC Current 04
+2795,DC Current 05
+2796,DC Current 06
+2797,DC Current 07
+2798,DC Current 08
+2799,DC Current 09
+2800,DC Current 10
+2801,DC Current 11
+2806,Active Power
+2807,Energy AC
+2818,Active Power AC
+2824,Module Board Temperature
+2828,Active Power AC
+2834,Module Board Temperature
+2838,Active Power AC
+2844,Module Board Temperature
+2848,DC Current 01
+2849,DC Current 02
+285,Module Board Temperature
+2850,DC Current 03
+2851,DC Current 04
+2852,DC Current 05
+2853,DC Current 06
+2854,DC Current 07
+2855,DC Current 08
+2856,DC Current 09
+2857,DC Current 10
+2858,DC Current 11
+2863,DC Current 01
+2864,DC Current 02
+2865,DC Current 03
+2866,DC Current 04
+2867,DC Current 05
+2868,DC Current 06
+2869,DC Current 07
+2870,DC Current 08
+2871,DC Current 09
+2872,DC Current 10
+2873,DC Current 11
+2874,DC Current 12
+2879,Active Power
+2880,Energy AC
+289,Active Power AC
+2891,Active Power AC
+2897,Module Board Temperature
+2901,Active Power AC
+2907,Module Board Temperature
+2911,Active Power AC
+2917,Module Board Temperature
+2921,DC Current 01
+2922,DC Current 02
+2923,DC Current 03
+2924,DC Current 04
+2925,DC Current 05
+2926,DC Current 06
+2927,DC Current 07
+2928,DC Current 08
+2929,DC Current 09
+2930,DC Current 10
+2931,DC Current 11
+2936,DC Current 01
+2937,DC Current 02
+2938,DC Current 03
+2939,DC Current 04
+2940,DC Current 05
+2941,DC Current 06
+2942,DC Current 07
+2943,DC Current 08
+2944,DC Current 09
+2945,DC Current 10
+2946,DC Current 11
+2947,DC Current 12
+295,Module Board Temperature
+2952,Active Power
+2953,Energy AC
+2964,Active Power AC
+2970,Module Board Temperature
+2974,Active Power AC
+2980,Module Board Temperature
+2984,Active Power AC
+299,DC Current 01
+2990,Module Board Temperature
+2994,DC Current 01
+2995,DC Current 02
+2996,DC Current 03
+2997,DC Current 04
+2998,DC Current 05
+2999,DC Current 06
+300,DC Current 02
+3000,DC Current 07
+3001,DC Current 08
+3002,DC Current 09
+3003,DC Current 10
+3004,DC Current 11
+3009,DC Current 01
+301,DC Current 03
+3010,DC Current 02
+3011,DC Current 03
+3012,DC Current 04
+3013,DC Current 05
+3014,DC Current 06
+3015,DC Current 07
+3016,DC Current 08
+3017,DC Current 09
+3018,DC Current 10
+3019,DC Current 11
+302,DC Current 04
+3020,DC Current 12
+3025,Active Power AC
+3029,Energy AC
+303,DC Current 05
+3039,Temperatura Trafo 1
+304,DC Current 06
+3040,Temperatura Trafo 2
+3041,Temperatura Trafo 3
+3042,Temperatura Locale AC
+3043,Temperatura Locale DC
+305,DC Current 07
+306,DC Current 08
+307,DC Current 09
+308,DC Current 10
+3081,DC Current 12
+309,DC Current 11
+314,DC Current 01
+315,DC Current 02
+316,DC Current 03
+317,DC Current 04
+318,DC Current 05
+319,DC Current 06
+320,DC Current 07
+321,DC Current 08
+322,DC Current 09
+323,DC Current 10
+324,DC Current 11
+325,DC Current 12
+331,Active Power
+332,Energy AC
+343,Active Power AC
+349,Module Board Temperature
+353,Active Power AC
+359,Module Board Temperature
+363,Active Power AC
+369,Module Board Temperature
+373,DC Current 01
+374,DC Current 02
+375,DC Current 03
+376,DC Current 04
+377,DC Current 05
+378,DC Current 06
+379,DC Current 07
+380,DC Current 08
+381,DC Current 09
+382,DC Current 10
+383,DC Current 11
+388,DC Current 01
+389,DC Current 02
+390,DC Current 03
+391,DC Current 04
+392,DC Current 05
+393,DC Current 06
+394,DC Current 07
+395,DC Current 08
+396,DC Current 09
+397,DC Current 10
+398,DC Current 11
+399,DC Current 12
+405,Active Power
+406,Energy AC
+417,Active Power AC
+423,Module Board Temperature
+427,Active Power AC
+433,Module Board Temperature
+437,Active Power AC
+443,Module Board Temperature
+447,DC Current 01
+448,DC Current 02
+449,DC Current 03
+450,DC Current 04
+451,DC Current 05
+452,DC Current 06
+453,DC Current 07
+454,DC Current 08
+455,DC Current 09
+456,DC Current 10
+457,DC Current 11
+462,DC Current 01
+463,DC Current 02
+464,DC Current 03
+465,DC Current 04
+466,DC Current 05
+467,DC Current 06
+468,DC Current 07
+469,DC Current 08
+470,DC Current 09
+471,DC Current 10
+472,DC Current 11
+473,DC Current 12
+479,Active Power
+480,Energy AC
+491,Active Power AC
+497,Module Board Temperature
+501,Active Power AC
+507,Module Board Temperature
+511,Active Power AC
+517,Module Board Temperature
+521,DC Current 01
+522,DC Current 02
+523,DC Current 03
+524,DC Current 04
+525,DC Current 05
+526,DC Current 06
+527,DC Current 07
+528,DC Current 08
+529,DC Current 09
+530,DC Current 10
+531,DC Current 11
+536,DC Current 01
+537,DC Current 02
+538,DC Current 03
+539,DC Current 04
+540,DC Current 05
+541,DC Current 06
+542,DC Current 07
+543,DC Current 08
+544,DC Current 09
+545,DC Current 10
+546,DC Current 11
+547,DC Current 12
+55,Temperatura Locale AC
+553,Active Power
+554,Energy AC
+56,Temperatura Locale DC
+565,Active Power AC
+571,Module Board Temperature
+575,Active Power AC
+581,Module Board Temperature
+585,Active Power AC
+591,Module Board Temperature
+595,DC Current 01
+596,DC Current 02
+597,DC Current 03
+598,DC Current 04
+599,DC Current 05
+600,DC Current 06
+601,DC Current 07
+602,DC Current 08
+603,DC Current 09
+604,DC Current 10
+605,DC Current 11
+610,DC Current 01
+611,DC Current 02
+612,DC Current 03
+613,DC Current 04
+614,DC Current 05
+615,DC Current 06
+616,DC Current 07
+617,DC Current 08
+618,DC Current 09
+619,DC Current 10
+620,DC Current 11
+621,DC Current 12
+627,Active Power
+628,Energy AC
+639,Active Power AC
+645,Module Board Temperature
+649,Active Power AC
+655,Module Board Temperature
+659,Active Power AC
+665,Module Board Temperature
+669,DC Current 01
+670,DC Current 02
+671,DC Current 03
+672,DC Current 04
+673,DC Current 05
+674,DC Current 06
+675,DC Current 07
+676,DC Current 08
+677,DC Current 09
+678,DC Current 10
+679,DC Current 11
+684,DC Current 01
+685,DC Current 02
+686,DC Current 03
+687,DC Current 04
+688,DC Current 05
+689,DC Current 06
+690,DC Current 07
+691,DC Current 08
+692,DC Current 09
+693,DC Current 10
+694,DC Current 11
+695,DC Current 12
+701,Active Power
+702,Energy AC
+713,Active Power AC
+719,Module Board Temperature
+723,Active Power AC
+729,Module Board Temperature
+733,Active Power AC
+739,Module Board Temperature
+743,DC Current 01
+744,DC Current 02
+745,DC Current 03
+746,DC Current 04
+747,DC Current 05
+748,DC Current 06
+749,DC Current 07
+750,DC Current 08
+751,DC Current 09
+752,DC Current 10
+753,DC Current 11
+758,DC Current 01
+759,DC Current 02
+760,DC Current 03
+761,DC Current 04
+762,DC Current 05
+763,DC Current 06
+764,DC Current 07
+765,DC Current 08
+766,DC Current 09
+767,DC Current 10
+768,DC Current 11
+769,DC Current 12
+775,Active Power
+776,Energy AC
+787,Active Power AC
+793,Module Board Temperature
+797,Active Power AC
+8,Active Power AC
+803,Module Board Temperature
+807,Active Power AC
+81,Energy AC
+813,Module Board Temperature
+817,DC Current 01
+818,DC Current 02
+819,DC Current 03
+820,DC Current 04
+821,DC Current 05
+822,DC Current 06
+823,DC Current 07
+824,DC Current 08
+825,DC Current 09
+826,DC Current 10
+827,DC Current 11
+832,DC Current 01
+833,DC Current 02
+834,DC Current 03
+835,DC Current 04
+836,DC Current 05
+837,DC Current 06
+838,DC Current 07
+839,DC Current 08
+840,DC Current 09
+841,DC Current 10
+842,DC Current 11
+849,DC Current 12
+850,Active Power
+851,Energy AC
+86,Active Power AC
+862,Active Power AC
+868,Module Board Temperature
+872,Active Power AC
+878,Module Board Temperature
+882,Active Power AC
+888,Module Board Temperature
+892,DC Current 01
+893,DC Current 02
+894,DC Current 03
+895,DC Current 04
+896,DC Current 05
+897,DC Current 06
+898,DC Current 07
+899,DC Current 08
+9,Active Power
+900,DC Current 09
+901,DC Current 10
+902,DC Current 11
+908,DC Current 01
+909,DC Current 02
+91,Module Board Temperature
+910,DC Current 03
+911,DC Current 04
+912,DC Current 05
+913,DC Current 06
+914,DC Current 07
+915,DC Current 08
+916,DC Current 09
+917,DC Current 10
+918,DC Current 11
+924,DC Current 12
+925,Active Power
+926,Energy AC
+937,Active Power AC
+943,Module Board Temperature
+947,Active Power AC
+95,Active Power AC
+953,Module Board Temperature
+957,Active Power AC
+963,Module Board Temperature
+967,DC Current 01
+968,DC Current 02
+969,DC Current 03
+970,DC Current 04
+971,DC Current 05
+972,DC Current 06
+973,DC Current 07
+974,DC Current 08
+975,DC Current 09
+976,DC Current 10
+977,DC Current 11
+982,DC Current 01
+983,DC Current 02
+984,DC Current 03
+985,DC Current 04
+986,DC Current 05
+987,DC Current 06
+988,DC Current 07
+989,DC Current 08
+990,DC Current 09
+991,DC Current 10
+992,DC Current 11
+997,DC Current 12
+999,Active Power
+D.1000.DELTA,Energy AC DELTA
+D.1000.EH,Ore equivalenti (Energy AC)
+D.1011.ENERGY,Active Power AC ENERGY
+D.1011.PERC,Active Power AC %
+D.1021.ENERGY,Active Power AC ENERGY
+D.1021.PERC,Active Power AC %
+D.1031.ENERGY,Active Power AC ENERGY
+D.1031.PERC,Active Power AC %
+D.104.ENERGY,Active Power AC ENERGY
+D.104.PERC,Active Power AC %
+D.1073.ENERGY,Active Power ENERGY
+D.1073.PERC,Active Power %
+D.1074.DELTA,Energy AC DELTA
+D.1074.EH,Ore equivalenti (Energy AC)
+D.1085.ENERGY,Active Power AC ENERGY
+D.1085.PERC,Active Power AC %
+D.1095.ENERGY,Active Power AC ENERGY
+D.1095.PERC,Active Power AC %
+D.1105.ENERGY,Active Power AC ENERGY
+D.1105.PERC,Active Power AC %
+D.1146.ENERGY,Active Power ENERGY
+D.1146.PERC,Active Power %
+D.1147.DELTA,Energy AC DELTA
+D.1147.EH,Ore equivalenti (Energy AC)
+D.1158.ENERGY,Active Power AC ENERGY
+D.1158.PERC,Active Power AC %
+D.1168.ENERGY,Active Power AC ENERGY
+D.1168.PERC,Active Power AC %
+D.1178.ENERGY,Active Power AC ENERGY
+D.1178.PERC,Active Power AC %
+D.1219.ENERGY,Active Power ENERGY
+D.1219.PERC,Active Power %
+D.1220.DELTA,Energy AC DELTA
+D.1220.EH,Ore equivalenti (Energy AC)
+D.1231.ENERGY,Active Power AC ENERGY
+D.1231.PERC,Active Power AC %
+D.1241.ENERGY,Active Power AC ENERGY
+D.1241.PERC,Active Power AC %
+D.1251.ENERGY,Active Power AC ENERGY
+D.1251.PERC,Active Power AC %
+D.1292.ENERGY,Active Power ENERGY
+D.1292.PERC,Active Power %
+D.1293.DELTA,Energy AC DELTA
+D.1293.EH,Ore equivalenti (Energy AC)
+D.1304.ENERGY,Active Power AC ENERGY
+D.1304.PERC,Active Power AC %
+D.1314.ENERGY,Active Power AC ENERGY
+D.1314.PERC,Active Power AC %
+D.1324.ENERGY,Active Power AC ENERGY
+D.1324.PERC,Active Power AC %
+D.1365.ENERGY,Active Power ENERGY
+D.1365.PERC,Active Power %
+D.1366.DELTA,Energy AC DELTA
+D.1366.EH,Ore equivalenti (Energy AC)
+D.1377.ENERGY,Active Power AC ENERGY
+D.1377.PERC,Active Power AC %
+D.1387.ENERGY,Active Power AC ENERGY
+D.1387.PERC,Active Power AC %
+D.1397.ENERGY,Active Power AC ENERGY
+D.1397.PERC,Active Power AC %
+D.1438.ENERGY,Active Power ENERGY
+D.1438.PERC,Active Power %
+D.1439.DELTA,Energy AC DELTA
+D.1439.EH,Ore equivalenti (Energy AC)
+D.1450.ENERGY,Active Power AC ENERGY
+D.1450.PERC,Active Power AC %
+D.1460.ENERGY,Active Power AC ENERGY
+D.1460.PERC,Active Power AC %
+D.1470.ENERGY,Active Power AC ENERGY
+D.1470.PERC,Active Power AC %
+D.1511.ENERGY,Active Power ENERGY
+D.1511.PERC,Active Power %
+D.1512.DELTA,Energy AC DELTA
+D.1512.EH,Ore equivalenti (Energy AC)
+D.1523.ENERGY,Active Power AC ENERGY
+D.1523.PERC,Active Power AC %
+D.1533.ENERGY,Active Power AC ENERGY
+D.1533.PERC,Active Power AC %
+D.1543.ENERGY,Active Power AC ENERGY
+D.1543.PERC,Active Power AC %
+D.156.DELTA,Energia Prodotta Display DELTA
+D.156.EH,Ore equivalenti (Energia Prodotta Display)
+D.157.DELTA,Energia Prelevata Display DELTA
+D.157.EH,Ore equivalenti (Energia Prelevata Display)
+D.158.ENERGY,Active Power AC ENERGY
+D.158.PERC,Active Power AC %
+D.1584.ENERGY,Active Power ENERGY
+D.1584.PERC,Active Power %
+D.1585.DELTA,Energy AC DELTA
+D.1585.EH,Ore equivalenti (Energy AC)
+D.1596.ENERGY,Active Power AC ENERGY
+D.1596.PERC,Active Power AC %
+D.1606.ENERGY,Active Power AC ENERGY
+D.1606.PERC,Active Power AC %
+D.1616.ENERGY,Active Power AC ENERGY
+D.1616.PERC,Active Power AC %
+D.1657.ENERGY,Active Power ENERGY
+D.1657.PERC,Active Power %
+D.1658.DELTA,Energy AC DELTA
+D.1658.EH,Ore equivalenti (Energy AC)
+D.1669.ENERGY,Active Power AC ENERGY
+D.1669.PERC,Active Power AC %
+D.1679.ENERGY,Active Power AC ENERGY
+D.1679.PERC,Active Power AC %
+D.1689.ENERGY,Active Power AC ENERGY
+D.1689.PERC,Active Power AC %
+D.171.ISIRR,Irraggiamento Moduli ISIRR
+D.171.STDDEV,Irraggiamento Moduli STDDEV
+D.1730.ENERGY,Active Power ENERGY
+D.1730.PERC,Active Power %
+D.1731.DELTA,Energy AC DELTA
+D.1731.EH,Ore equivalenti (Energy AC)
+D.1742.ENERGY,Active Power AC ENERGY
+D.1742.PERC,Active Power AC %
+D.1752.ENERGY,Active Power AC ENERGY
+D.1752.PERC,Active Power AC %
+D.1762.ENERGY,Active Power AC ENERGY
+D.1762.PERC,Active Power AC %
+D.1803.ENERGY,Active Power ENERGY
+D.1803.PERC,Active Power %
+D.1804.DELTA,Energy AC DELTA
+D.1804.EH,Ore equivalenti (Energy AC)
+D.1815.ENERGY,Active Power AC ENERGY
+D.1815.PERC,Active Power AC %
+D.182.ENERGY,Active Power ENERGY
+D.182.PERC,Active Power %
+D.1825.ENERGY,Active Power AC ENERGY
+D.1825.PERC,Active Power AC %
+D.183.DELTA,Energy AC DELTA
+D.183.EH,Ore equivalenti (Energy AC)
+D.1835.ENERGY,Active Power AC ENERGY
+D.1835.PERC,Active Power AC %
+D.1876.ENERGY,Active Power ENERGY
+D.1876.PERC,Active Power %
+D.1877.DELTA,Energy AC DELTA
+D.1877.EH,Ore equivalenti (Energy AC)
+D.1888.ENERGY,Active Power AC ENERGY
+D.1888.PERC,Active Power AC %
+D.1898.ENERGY,Active Power AC ENERGY
+D.1898.PERC,Active Power AC %
+D.19.DELTA,Energy AC DELTA
+D.19.EH,Ore equivalenti (Energy AC)
+D.1908.ENERGY,Active Power AC ENERGY
+D.1908.PERC,Active Power AC %
+D.194.ENERGY,Active Power AC ENERGY
+D.194.PERC,Active Power AC %
+D.1949.ENERGY,Active Power ENERGY
+D.1949.PERC,Active Power %
+D.1950.DELTA,Energy AC DELTA
+D.1950.EH,Ore equivalenti (Energy AC)
+D.1961.ENERGY,Active Power AC ENERGY
+D.1961.PERC,Active Power AC %
+D.1971.ENERGY,Active Power AC ENERGY
+D.1971.PERC,Active Power AC %
+D.1981.ENERGY,Active Power AC ENERGY
+D.1981.PERC,Active Power AC %
+D.2022.ENERGY,Active Power AC ENERGY
+D.2022.PERC,Active Power AC %
+D.2026.DELTA,Energy AC DELTA
+D.2026.EH,Ore equivalenti (Energy AC)
+D.204.ENERGY,Active Power AC ENERGY
+D.204.PERC,Active Power AC %
+D.2078.ENERGY,Active Power ENERGY
+D.2078.PERC,Active Power %
+D.2079.DELTA,Energy AC DELTA
+D.2079.EH,Ore equivalenti (Energy AC)
+D.2090.ENERGY,Active Power AC ENERGY
+D.2090.PERC,Active Power AC %
+D.2100.ENERGY,Active Power AC ENERGY
+D.2100.PERC,Active Power AC %
+D.2110.ENERGY,Active Power AC ENERGY
+D.2110.PERC,Active Power AC %
+D.214.ENERGY,Active Power AC ENERGY
+D.214.PERC,Active Power AC %
+D.2151.ENERGY,Active Power ENERGY
+D.2151.PERC,Active Power %
+D.2152.DELTA,Energy AC DELTA
+D.2152.EH,Ore equivalenti (Energy AC)
+D.2163.ENERGY,Active Power AC ENERGY
+D.2163.PERC,Active Power AC %
+D.2173.ENERGY,Active Power AC ENERGY
+D.2173.PERC,Active Power AC %
+D.2183.ENERGY,Active Power AC ENERGY
+D.2183.PERC,Active Power AC %
+D.2224.ENERGY,Active Power ENERGY
+D.2224.PERC,Active Power %
+D.2225.DELTA,Energy AC DELTA
+D.2225.EH,Ore equivalenti (Energy AC)
+D.2236.ENERGY,Active Power AC ENERGY
+D.2236.PERC,Active Power AC %
+D.2246.ENERGY,Active Power AC ENERGY
+D.2246.PERC,Active Power AC %
+D.2256.ENERGY,Active Power AC ENERGY
+D.2256.PERC,Active Power AC %
+D.2370.ENERGY,Active Power ENERGY
+D.2370.PERC,Active Power %
+D.2371.DELTA,Energy AC DELTA
+D.2371.EH,Ore equivalenti (Energy AC)
+D.2382.ENERGY,Active Power AC ENERGY
+D.2382.PERC,Active Power AC %
+D.2392.ENERGY,Active Power AC ENERGY
+D.2392.PERC,Active Power AC %
+D.2402.ENERGY,Active Power AC ENERGY
+D.2402.PERC,Active Power AC %
+D.2443.ENERGY,Active Power ENERGY
+D.2443.PERC,Active Power %
+D.2444.DELTA,Energy AC DELTA
+D.2444.EH,Ore equivalenti (Energy AC)
+D.2455.ENERGY,Active Power AC ENERGY
+D.2455.PERC,Active Power AC %
+D.2465.ENERGY,Active Power AC ENERGY
+D.2465.PERC,Active Power AC %
+D.2475.ENERGY,Active Power AC ENERGY
+D.2475.PERC,Active Power AC %
+D.2516.ENERGY,Active Power ENERGY
+D.2516.PERC,Active Power %
+D.2517.DELTA,Energy AC DELTA
+D.2517.EH,Ore equivalenti (Energy AC)
+D.2528.ENERGY,Active Power AC ENERGY
+D.2528.PERC,Active Power AC %
+D.2538.ENERGY,Active Power AC ENERGY
+D.2538.PERC,Active Power AC %
+D.2548.ENERGY,Active Power AC ENERGY
+D.2548.PERC,Active Power AC %
+D.257.ENERGY,Active Power ENERGY
+D.257.PERC,Active Power %
+D.258.DELTA,Energy AC DELTA
+D.258.EH,Ore equivalenti (Energy AC)
+D.2589.ENERGY,Active Power ENERGY
+D.2589.PERC,Active Power %
+D.2590.DELTA,Energy AC DELTA
+D.2590.EH,Ore equivalenti (Energy AC)
+D.2601.ENERGY,Active Power AC ENERGY
+D.2601.PERC,Active Power AC %
+D.2611.ENERGY,Active Power AC ENERGY
+D.2611.PERC,Active Power AC %
+D.2621.ENERGY,Active Power AC ENERGY
+D.2621.PERC,Active Power AC %
+D.2661.ENERGY,Active Power ENERGY
+D.2661.PERC,Active Power %
+D.2662.DELTA,Energy AC DELTA
+D.2662.EH,Ore equivalenti (Energy AC)
+D.2673.ENERGY,Active Power AC ENERGY
+D.2673.PERC,Active Power AC %
+D.2683.ENERGY,Active Power AC ENERGY
+D.2683.PERC,Active Power AC %
+D.269.ENERGY,Active Power AC ENERGY
+D.269.PERC,Active Power AC %
+D.2693.ENERGY,Active Power AC ENERGY
+D.2693.PERC,Active Power AC %
+D.2733.ENERGY,Active Power ENERGY
+D.2733.PERC,Active Power %
+D.2734.DELTA,Energy AC DELTA
+D.2734.EH,Ore equivalenti (Energy AC)
+D.2745.ENERGY,Active Power AC ENERGY
+D.2745.PERC,Active Power AC %
+D.2755.ENERGY,Active Power AC ENERGY
+D.2755.PERC,Active Power AC %
+D.2765.ENERGY,Active Power AC ENERGY
+D.2765.PERC,Active Power AC %
+D.279.ENERGY,Active Power AC ENERGY
+D.279.PERC,Active Power AC %
+D.2806.ENERGY,Active Power ENERGY
+D.2806.PERC,Active Power %
+D.2807.DELTA,Energy AC DELTA
+D.2807.EH,Ore equivalenti (Energy AC)
+D.2818.ENERGY,Active Power AC ENERGY
+D.2818.PERC,Active Power AC %
+D.2828.ENERGY,Active Power AC ENERGY
+D.2828.PERC,Active Power AC %
+D.2838.ENERGY,Active Power AC ENERGY
+D.2838.PERC,Active Power AC %
+D.2879.ENERGY,Active Power ENERGY
+D.2879.PERC,Active Power %
+D.2880.DELTA,Energy AC DELTA
+D.2880.EH,Ore equivalenti (Energy AC)
+D.289.ENERGY,Active Power AC ENERGY
+D.289.PERC,Active Power AC %
+D.2891.ENERGY,Active Power AC ENERGY
+D.2891.PERC,Active Power AC %
+D.2901.ENERGY,Active Power AC ENERGY
+D.2901.PERC,Active Power AC %
+D.2911.ENERGY,Active Power AC ENERGY
+D.2911.PERC,Active Power AC %
+D.2952.ENERGY,Active Power ENERGY
+D.2952.PERC,Active Power %
+D.2953.DELTA,Energy AC DELTA
+D.2953.EH,Ore equivalenti (Energy AC)
+D.2964.ENERGY,Active Power AC ENERGY
+D.2964.PERC,Active Power AC %
+D.2974.ENERGY,Active Power AC ENERGY
+D.2974.PERC,Active Power AC %
+D.2984.ENERGY,Active Power AC ENERGY
+D.2984.PERC,Active Power AC %
+D.3025.ENERGY,Active Power AC ENERGY
+D.3025.PERC,Active Power AC %
+D.3029.DELTA,Energy AC DELTA
+D.3029.EH,Ore equivalenti (Energy AC)
+D.331.ENERGY,Active Power ENERGY
+D.331.PERC,Active Power %
+D.332.DELTA,Energy AC DELTA
+D.332.EH,Ore equivalenti (Energy AC)
+D.343.ENERGY,Active Power AC ENERGY
+D.343.PERC,Active Power AC %
+D.353.ENERGY,Active Power AC ENERGY
+D.353.PERC,Active Power AC %
+D.363.ENERGY,Active Power AC ENERGY
+D.363.PERC,Active Power AC %
+D.405.ENERGY,Active Power ENERGY
+D.405.PERC,Active Power %
+D.406.DELTA,Energy AC DELTA
+D.406.EH,Ore equivalenti (Energy AC)
+D.417.ENERGY,Active Power AC ENERGY
+D.417.PERC,Active Power AC %
+D.427.ENERGY,Active Power AC ENERGY
+D.427.PERC,Active Power AC %
+D.437.ENERGY,Active Power AC ENERGY
+D.437.PERC,Active Power AC %
+D.479.ENERGY,Active Power ENERGY
+D.479.PERC,Active Power %
+D.480.DELTA,Energy AC DELTA
+D.480.EH,Ore equivalenti (Energy AC)
+D.491.ENERGY,Active Power AC ENERGY
+D.491.PERC,Active Power AC %
+D.501.ENERGY,Active Power AC ENERGY
+D.501.PERC,Active Power AC %
+D.511.ENERGY,Active Power AC ENERGY
+D.511.PERC,Active Power AC %
+D.553.ENERGY,Active Power ENERGY
+D.553.PERC,Active Power %
+D.554.DELTA,Energy AC DELTA
+D.554.EH,Ore equivalenti (Energy AC)
+D.565.ENERGY,Active Power AC ENERGY
+D.565.PERC,Active Power AC %
+D.575.ENERGY,Active Power AC ENERGY
+D.575.PERC,Active Power AC %
+D.585.ENERGY,Active Power AC ENERGY
+D.585.PERC,Active Power AC %
+D.627.ENERGY,Active Power ENERGY
+D.627.PERC,Active Power %
+D.628.DELTA,Energy AC DELTA
+D.628.EH,Ore equivalenti (Energy AC)
+D.639.ENERGY,Active Power AC ENERGY
+D.639.PERC,Active Power AC %
+D.649.ENERGY,Active Power AC ENERGY
+D.649.PERC,Active Power AC %
+D.659.ENERGY,Active Power AC ENERGY
+D.659.PERC,Active Power AC %
+D.701.ENERGY,Active Power ENERGY
+D.701.PERC,Active Power %
+D.702.DELTA,Energy AC DELTA
+D.702.EH,Ore equivalenti (Energy AC)
+D.713.ENERGY,Active Power AC ENERGY
+D.713.PERC,Active Power AC %
+D.723.ENERGY,Active Power AC ENERGY
+D.723.PERC,Active Power AC %
+D.733.ENERGY,Active Power AC ENERGY
+D.733.PERC,Active Power AC %
+D.775.ENERGY,Active Power ENERGY
+D.775.PERC,Active Power %
+D.776.DELTA,Energy AC DELTA
+D.776.EH,Ore equivalenti (Energy AC)
+D.787.ENERGY,Active Power AC ENERGY
+D.787.PERC,Active Power AC %
+D.797.ENERGY,Active Power AC ENERGY
+D.797.PERC,Active Power AC %
+D.8.ENERGY,Active Power AC ENERGY
+D.8.PERC,Active Power AC %
+D.807.ENERGY,Active Power AC ENERGY
+D.807.PERC,Active Power AC %
+D.81.DELTA,Energy AC DELTA
+D.81.EH,Ore equivalenti (Energy AC)
+D.850.ENERGY,Active Power ENERGY
+D.850.PERC,Active Power %
+D.851.DELTA,Energy AC DELTA
+D.851.EH,Ore equivalenti (Energy AC)
+D.86.ENERGY,Active Power AC ENERGY
+D.86.PERC,Active Power AC %
+D.862.ENERGY,Active Power AC ENERGY
+D.862.PERC,Active Power AC %
+D.872.ENERGY,Active Power AC ENERGY
+D.872.PERC,Active Power AC %
+D.882.ENERGY,Active Power AC ENERGY
+D.882.PERC,Active Power AC %
+D.9.ENERGY,Active Power ENERGY
+D.9.PERC,Active Power %
+D.925.ENERGY,Active Power ENERGY
+D.925.PERC,Active Power %
+D.926.DELTA,Energy AC DELTA
+D.926.EH,Ore equivalenti (Energy AC)
+D.937.ENERGY,Active Power AC ENERGY
+D.937.PERC,Active Power AC %
+D.947.ENERGY,Active Power AC ENERGY
+D.947.PERC,Active Power AC %
+D.95.ENERGY,Active Power AC ENERGY
+D.95.PERC,Active Power AC %
+D.957.ENERGY,Active Power AC ENERGY
+D.957.PERC,Active Power AC %
+D.999.ENERGY,Active Power ENERGY
+D.999.PERC,Active Power %
+D.V1052.EH,Ore equivalenti (DC Energy Delta)
+D.V1052.INTEGRAL,DC Energy Delta INTEGRAL
+D.V1067.EH,Ore equivalenti (DC Energy Delta)
+D.V1067.INTEGRAL,DC Energy Delta INTEGRAL
+D.V1126.EH,Ore equivalenti (DC Energy Delta)
+D.V1126.INTEGRAL,DC Energy Delta INTEGRAL
+D.V1142.EH,Ore equivalenti (DC Energy Delta)
+D.V1142.INTEGRAL,DC Energy Delta INTEGRAL
+D.V117.EH,Ore equivalenti (DC Energy Delta)
+D.V1199.EH,Ore equivalenti (DC Energy Delta)
+D.V1199.INTEGRAL,DC Energy Delta INTEGRAL
+D.V1215.EH,Ore equivalenti (DC Energy Delta)
+D.V1215.INTEGRAL,DC Energy Delta INTEGRAL
+D.V1272.EH,Ore equivalenti (DC Energy Delta)
+D.V1272.INTEGRAL,DC Energy Delta INTEGRAL
+D.V1288.EH,Ore equivalenti (DC Energy Delta)
+D.V1288.INTEGRAL,DC Energy Delta INTEGRAL
+D.V1345.EH,Ore equivalenti (DC Energy Delta)
+D.V1345.INTEGRAL,DC Energy Delta INTEGRAL
+D.V1361.EH,Ore equivalenti (DC Energy Delta)
+D.V1361.INTEGRAL,DC Energy Delta INTEGRAL
+D.V1418.EH,Ore equivalenti (DC Energy Delta)
+D.V1418.INTEGRAL,DC Energy Delta INTEGRAL
+D.V1434.EH,Ore equivalenti (DC Energy Delta)
+D.V1434.INTEGRAL,DC Energy Delta INTEGRAL
+D.V144.EH,Ore equivalenti (DC Energy Delta)
+D.V144.INTEGRAL,DC Energy Delta INTEGRAL
+D.V1491.EH,Ore equivalenti (DC Energy Delta)
+D.V1491.INTEGRAL,DC Energy Delta INTEGRAL
+D.V1507.EH,Ore equivalenti (DC Energy Delta)
+D.V1507.INTEGRAL,DC Energy Delta INTEGRAL
+D.V1564.EH,Ore equivalenti (DC Energy Delta)
+D.V1564.INTEGRAL,DC Energy Delta INTEGRAL
+D.V1580.EH,Ore equivalenti (DC Energy Delta)
+D.V1580.INTEGRAL,DC Energy Delta INTEGRAL
+D.V1637.EH,Ore equivalenti (DC Energy Delta)
+D.V1637.INTEGRAL,DC Energy Delta INTEGRAL
+D.V1653.EH,Ore equivalenti (DC Energy Delta)
+D.V1653.INTEGRAL,DC Energy Delta INTEGRAL
+D.V1710.EH,Ore equivalenti (DC Energy Delta)
+D.V1710.INTEGRAL,DC Energy Delta INTEGRAL
+D.V1726.EH,Ore equivalenti (DC Energy Delta)
+D.V1726.INTEGRAL,DC Energy Delta INTEGRAL
+D.V1784.EH,Ore equivalenti (DC Energy Delta)
+D.V1784.INTEGRAL,DC Energy Delta INTEGRAL
+D.V1799.EH,Ore equivalenti (DC Energy Delta)
+D.V1799.INTEGRAL,DC Energy Delta INTEGRAL
+D.V1856.EH,Ore equivalenti (DC Energy Delta)
+D.V1856.INTEGRAL,DC Energy Delta INTEGRAL
+D.V1872.EH,Ore equivalenti (DC Energy Delta)
+D.V1872.INTEGRAL,DC Energy Delta INTEGRAL
+D.V1929.EH,Ore equivalenti (DC Energy Delta)
+D.V1929.INTEGRAL,DC Energy Delta INTEGRAL
+D.V1945.EH,Ore equivalenti (DC Energy Delta)
+D.V1945.INTEGRAL,DC Energy Delta INTEGRAL
+D.V2002.EH,Ore equivalenti (DC Energy Delta)
+D.V2002.INTEGRAL,DC Energy Delta INTEGRAL
+D.V2018.EH,Ore equivalenti (DC Energy Delta)
+D.V2018.INTEGRAL,DC Energy Delta INTEGRAL
+D.V2131.EH,Ore equivalenti (DC Energy Delta)
+D.V2131.INTEGRAL,DC Energy Delta INTEGRAL
+D.V2147.EH,Ore equivalenti (DC Energy Delta)
+D.V2147.INTEGRAL,DC Energy Delta INTEGRAL
+D.V2204.EH,Ore equivalenti (DC Energy Delta)
+D.V2204.INTEGRAL,DC Energy Delta INTEGRAL
+D.V2220.EH,Ore equivalenti (DC Energy Delta)
+D.V2220.INTEGRAL,DC Energy Delta INTEGRAL
+D.V2277.EH,Ore equivalenti (DC Energy Delta)
+D.V2277.INTEGRAL,DC Energy Delta INTEGRAL
+D.V2293.EH,Ore equivalenti (DC Energy Delta)
+D.V2293.INTEGRAL,DC Energy Delta INTEGRAL
+D.V2350.EH,Ore equivalenti (DC Energy Delta)
+D.V2350.INTEGRAL,DC Energy Delta INTEGRAL
+D.V236.EH,Ore equivalenti (DC Energy Delta)
+D.V236.INTEGRAL,DC Energy Delta INTEGRAL
+D.V2366.EH,Ore equivalenti (DC Energy Delta)
+D.V2366.INTEGRAL,DC Energy Delta INTEGRAL
+D.V2423.EH,Ore equivalenti (DC Energy Delta)
+D.V2423.INTEGRAL,DC Energy Delta INTEGRAL
+D.V2439.EH,Ore equivalenti (DC Energy Delta)
+D.V2439.INTEGRAL,DC Energy Delta INTEGRAL
+D.V2496.EH,Ore equivalenti (DC Energy Delta)
+D.V2496.INTEGRAL,DC Energy Delta INTEGRAL
+D.V2512.EH,Ore equivalenti (DC Energy Delta)
+D.V2512.INTEGRAL,DC Energy Delta INTEGRAL
+D.V252.EH,Ore equivalenti (DC Energy Delta)
+D.V252.INTEGRAL,DC Energy Delta INTEGRAL
+D.V2569.EH,Ore equivalenti (DC Energy Delta)
+D.V2569.INTEGRAL,DC Energy Delta INTEGRAL
+D.V2585.EH,Ore equivalenti (DC Energy Delta)
+D.V2585.INTEGRAL,DC Energy Delta INTEGRAL
+D.V2642.EH,Ore equivalenti (DC Energy Delta)
+D.V2642.INTEGRAL,DC Energy Delta INTEGRAL
+D.V2657.EH,Ore equivalenti (DC Energy Delta)
+D.V2657.INTEGRAL,DC Energy Delta INTEGRAL
+D.V2714.EH,Ore equivalenti (DC Energy Delta)
+D.V2714.INTEGRAL,DC Energy Delta INTEGRAL
+D.V2729.EH,Ore equivalenti (DC Energy Delta)
+D.V2729.INTEGRAL,DC Energy Delta INTEGRAL
+D.V2787.EH,Ore equivalenti (DC Energy Delta)
+D.V2787.INTEGRAL,DC Energy Delta INTEGRAL
+D.V2802.EH,Ore equivalenti (DC Energy Delta)
+D.V2802.INTEGRAL,DC Energy Delta INTEGRAL
+D.V2859.EH,Ore equivalenti (DC Energy Delta)
+D.V2859.INTEGRAL,DC Energy Delta INTEGRAL
+D.V2875.EH,Ore equivalenti (DC Energy Delta)
+D.V2875.INTEGRAL,DC Energy Delta INTEGRAL
+D.V2932.EH,Ore equivalenti (DC Energy Delta)
+D.V2932.INTEGRAL,DC Energy Delta INTEGRAL
+D.V2948.EH,Ore equivalenti (DC Energy Delta)
+D.V2948.INTEGRAL,DC Energy Delta INTEGRAL
+D.V3005.EH,Ore equivalenti (DC Energy Delta)
+D.V3005.INTEGRAL,DC Energy Delta INTEGRAL
+D.V3021.EH,Ore equivalenti (DC Energy Delta)
+D.V3021.INTEGRAL,DC Energy Delta INTEGRAL
+D.V310.EH,Ore equivalenti (DC Energy Delta)
+D.V310.INTEGRAL,DC Energy Delta INTEGRAL
+D.V326.EH,Ore equivalenti (DC Energy Delta)
+D.V326.INTEGRAL,DC Energy Delta INTEGRAL
+D.V384.EH,Ore equivalenti (DC Energy Delta)
+D.V384.INTEGRAL,DC Energy Delta INTEGRAL
+D.V400.EH,Ore equivalenti (DC Energy Delta)
+D.V400.INTEGRAL,DC Energy Delta INTEGRAL
+D.V458.EH,Ore equivalenti (DC Energy Delta)
+D.V458.INTEGRAL,DC Energy Delta INTEGRAL
+D.V474.EH,Ore equivalenti (DC Energy Delta)
+D.V474.INTEGRAL,DC Energy Delta INTEGRAL
+D.V532.EH,Ore equivalenti (DC Energy Delta)
+D.V532.INTEGRAL,DC Energy Delta INTEGRAL
+D.V548.EH,Ore equivalenti (DC Energy Delta)
+D.V548.INTEGRAL,DC Energy Delta INTEGRAL
+D.V606.EH,Ore equivalenti (DC Energy Delta)
+D.V606.INTEGRAL,DC Energy Delta INTEGRAL
+D.V622.EH,Ore equivalenti (DC Energy Delta)
+D.V622.INTEGRAL,DC Energy Delta INTEGRAL
+D.V680.EH,Ore equivalenti (DC Energy Delta)
+D.V680.INTEGRAL,DC Energy Delta INTEGRAL
+D.V696.EH,Ore equivalenti (DC Energy Delta)
+D.V696.INTEGRAL,DC Energy Delta INTEGRAL
+D.V754.EH,Ore equivalenti (DC Energy Delta)
+D.V754.INTEGRAL,DC Energy Delta INTEGRAL
+D.V770.EH,Ore equivalenti (DC Energy Delta)
+D.V770.INTEGRAL,DC Energy Delta INTEGRAL
+D.V828.EH,Ore equivalenti (DC Energy Delta)
+D.V828.INTEGRAL,DC Energy Delta INTEGRAL
+D.V844.EH,Ore equivalenti (DC Energy Delta)
+D.V844.INTEGRAL,DC Energy Delta INTEGRAL
+D.V903.EH,Ore equivalenti (DC Energy Delta)
+D.V903.INTEGRAL,DC Energy Delta INTEGRAL
+D.V919.EH,Ore equivalenti (DC Energy Delta)
+D.V919.INTEGRAL,DC Energy Delta INTEGRAL
+D.V978.EH,Ore equivalenti (DC Energy Delta)
+D.V978.INTEGRAL,DC Energy Delta INTEGRAL
+D.V993.EH,Ore equivalenti (DC Energy Delta)
+D.V993.INTEGRAL,DC Energy Delta INTEGRAL
+V1001,Expected Power AC
+V1015,Expected Power AC
+V1025,Expected Power AC
+V1035,Expected Power AC
+V1052,DC Energy Delta
+V1053,DC Power
+V1055,Power Ratio
+V1067,DC Energy Delta
+V1068,DC Power
+V1070,Power Ratio
+V1072,Performance Ratio
+V1075,Expected Power AC
+V1089,Expected Power AC
+V1099,Expected Power AC
+V1109,Expected Power AC
+V1126,DC Energy Delta
+V1127,DC Power
+V1129,Power Ratio
+V1142,DC Energy Delta
+V1143,DC Power
+V1145,Power Ratio
+V1148,Expected Power AC
+V116,DC Power
+V1162,Expected Power AC
+V117,DC Energy Delta
+V1172,Expected Power AC
+V1182,Expected Power AC
+V1199,DC Energy Delta
+V1200,DC Power
+V1202,Power Ratio
+V1215,DC Energy Delta
+V1216,DC Power
+V1218,Power Ratio
+V1221,Expected Power AC
+V1235,Expected Power AC
+V1245,Expected Power AC
+V1255,Expected Power AC
+V1272,DC Energy Delta
+V1273,DC Power
+V1275,Power Ratio
+V1288,DC Energy Delta
+V1289,DC Power
+V1291,Power Ratio
+V1294,Expected Power AC
+V1308,Expected Power AC
+V1318,Expected Power AC
+V1328,Expected Power AC
+V1345,DC Energy Delta
+V1346,DC Power
+V1348,Power Ratio
+V1361,DC Energy Delta
+V1362,DC Power
+V1364,Power Ratio
+V1367,Expected Power AC
+V1381,Expected Power AC
+V1391,Expected Power AC
+V1401,Expected Power AC
+V1418,DC Energy Delta
+V1419,DC Power
+V1421,Power Ratio
+V143,DC Power
+V1434,DC Energy Delta
+V1435,DC Power
+V1437,Power Ratio
+V144,DC Energy Delta
+V1440,Expected Power AC
+V1454,Expected Power AC
+V1464,Expected Power AC
+V1474,Expected Power AC
+V1491,DC Energy Delta
+V1492,DC Power
+V1494,Power Ratio
+V1507,DC Energy Delta
+V1508,DC Power
+V1510,Power Ratio
+V1513,Expected Power AC
+V1527,Expected Power AC
+V1537,Expected Power AC
+V1547,Expected Power AC
+V1564,DC Energy Delta
+V1565,DC Power
+V1567,Power Ratio
+V1580,DC Energy Delta
+V1581,DC Power
+V1583,Power Ratio
+V1586,Expected Power AC
+V1600,Expected Power AC
+V1610,Expected Power AC
+V1620,Expected Power AC
+V163,Power Ratio
+V1637,DC Energy Delta
+V1638,DC Power
+V164,Power Ratio
+V1640,Power Ratio
+V165,Performance Ratio
+V1653,DC Energy Delta
+V1654,DC Power
+V1656,Power Ratio
+V1659,Expected Power AC
+V166,Expected Power AC
+V167,Expected Power AC
+V1673,Expected Power AC
+V168,Expected Power AC
+V1683,Expected Power AC
+V169,Expected Power AC
+V1693,Expected Power AC
+V170,Expected Power AC
+V1710,DC Energy Delta
+V1711,DC Power
+V1713,Power Ratio
+V1726,DC Energy Delta
+V1727,DC Power
+V1729,Power Ratio
+V1732,Expected Power AC
+V1746,Expected Power AC
+V1756,Expected Power AC
+V1766,Expected Power AC
+V1784,DC Energy Delta
+V1785,DC Power
+V1787,Power Ratio
+V1799,DC Energy Delta
+V1800,DC Power
+V1802,Power Ratio
+V1805,Expected Power AC
+V1819,Expected Power AC
+V1829,Expected Power AC
+V1839,Expected Power AC
+V184,Expected Power AC
+V1856,DC Energy Delta
+V1857,DC Power
+V1859,Power Ratio
+V1872,DC Energy Delta
+V1873,DC Power
+V1875,Power Ratio
+V1878,Expected Power AC
+V1892,Expected Power AC
+V1902,Expected Power AC
+V1912,Expected Power AC
+V1929,DC Energy Delta
+V1930,DC Power
+V1932,Power Ratio
+V1945,DC Energy Delta
+V1946,DC Power
+V1948,Power Ratio
+V1951,Expected Power AC
+V1965,Expected Power AC
+V1975,Expected Power AC
+V198,Expected Power AC
+V1985,Expected Power AC
+V2002,DC Energy Delta
+V2003,DC Power
+V2005,Power Ratio
+V2018,DC Energy Delta
+V2019,DC Power
+V2021,Power Ratio
+V2027,Expected Power AC
+V2065,Performance Ratio
+V2066,Performance Ratio
+V2067,Performance Ratio
+V2068,Performance Ratio
+V2069,Performance Ratio
+V2070,Performance Ratio
+V2071,Performance Ratio
+V2072,Performance Ratio
+V2073,Performance Ratio
+V2074,Performance Ratio
+V2075,Performance Ratio
+V2076,Performance Ratio
+V2077,Performance Ratio
+V208,Expected Power AC
+V2080,Expected Power AC
+V2094,Expected Power AC
+V2104,Expected Power AC
+V2114,Expected Power AC
+V2131,DC Energy Delta
+V2132,DC Power
+V2134,Power Ratio
+V2147,DC Energy Delta
+V2148,DC Power
+V2150,Power Ratio
+V2153,Expected Power AC
+V2167,Expected Power AC
+V2177,Expected Power AC
+V218,Expected Power AC
+V2187,Expected Power AC
+V2204,DC Energy Delta
+V2205,DC Power
+V2207,Power Ratio
+V2220,DC Energy Delta
+V2221,DC Power
+V2223,Power Ratio
+V2226,Expected Power AC
+V2240,Expected Power AC
+V2250,Expected Power AC
+V2260,Expected Power AC
+V2277,DC Energy Delta
+V2278,DC Power
+V2280,Power Ratio
+V2293,DC Energy Delta
+V2294,DC Power
+V2296,Power Ratio
+V2299,Expected Power AC
+V2313,Expected Power AC
+V2323,Expected Power AC
+V2333,Expected Power AC
+V2350,DC Energy Delta
+V2351,DC Power
+V2353,Power Ratio
+V236,DC Energy Delta
+V2366,DC Energy Delta
+V2367,DC Power
+V2369,Power Ratio
+V237,DC Power
+V2372,Expected Power AC
+V2386,Expected Power AC
+V239,Power Ratio
+V2396,Expected Power AC
+V2406,Expected Power AC
+V2423,DC Energy Delta
+V2424,DC Power
+V2426,Power Ratio
+V2439,DC Energy Delta
+V2440,DC Power
+V2442,Power Ratio
+V2445,Expected Power AC
+V2459,Expected Power AC
+V2469,Expected Power AC
+V2479,Expected Power AC
+V2496,DC Energy Delta
+V2497,DC Power
+V2499,Power Ratio
+V2512,DC Energy Delta
+V2513,DC Power
+V2515,Power Ratio
+V2518,Expected Power AC
+V252,DC Energy Delta
+V253,DC Power
+V2532,Expected Power AC
+V2542,Expected Power AC
+V255,Power Ratio
+V2552,Expected Power AC
+V256,Performance Ratio
+V2569,DC Energy Delta
+V2570,DC Power
+V2572,Power Ratio
+V2585,DC Energy Delta
+V2586,DC Power
+V2588,Power Ratio
+V259,Expected Power AC
+V2591,Expected Power AC
+V2605,Expected Power AC
+V2615,Expected Power AC
+V2625,Expected Power AC
+V2642,DC Energy Delta
+V2643,DC Power
+V2645,Power Ratio
+V2657,DC Energy Delta
+V2658,DC Power
+V2660,Power Ratio
+V2663,Expected Power AC
+V2677,Expected Power AC
+V2687,Expected Power AC
+V2697,Expected Power AC
+V2714,DC Energy Delta
+V2715,DC Power
+V2717,Power Ratio
+V2729,DC Energy Delta
+V273,Expected Power AC
+V2730,DC Power
+V2732,Power Ratio
+V2735,Expected Power AC
+V2749,Expected Power AC
+V2759,Expected Power AC
+V2769,Expected Power AC
+V2787,DC Energy Delta
+V2788,DC Power
+V2790,Power Ratio
+V2802,DC Energy Delta
+V2803,DC Power
+V2805,Power Ratio
+V2808,Expected Power AC
+V2822,Expected Power AC
+V283,Expected Power AC
+V2832,Expected Power AC
+V2842,Expected Power AC
+V2859,DC Energy Delta
+V2860,DC Power
+V2862,Power Ratio
+V2875,DC Energy Delta
+V2876,DC Power
+V2878,Power Ratio
+V2881,Expected Power AC
+V2895,Expected Power AC
+V2905,Expected Power AC
+V2915,Expected Power AC
+V293,Expected Power AC
+V2932,DC Energy Delta
+V2933,DC Power
+V2935,Power Ratio
+V2948,DC Energy Delta
+V2949,DC Power
+V2951,Power Ratio
+V2954,Expected Power AC
+V2968,Expected Power AC
+V2978,Expected Power AC
+V2988,Expected Power AC
+V3005,DC Energy Delta
+V3006,DC Power
+V3008,Power Ratio
+V3021,DC Energy Delta
+V3022,DC Power
+V3024,Power Ratio
+V3030,Expected Power AC
+V3068,Performance Ratio
+V3069,Performance Ratio
+V3070,Performance Ratio
+V3072,Performance Ratio
+V3073,Performance Ratio
+V3074,Performance Ratio
+V3075,Performance Ratio
+V3076,Performance Ratio
+V3077,Performance Ratio
+V3078,Performance Ratio
+V3079,Performance Ratio
+V3080,Performance Ratio
+V310,DC Energy Delta
+V311,DC Power
+V313,Power Ratio
+V326,DC Energy Delta
+V327,DC Power
+V329,Power Ratio
+V330,Performance Ratio
+V333,Expected Power AC
+V347,Expected Power AC
+V357,Expected Power AC
+V367,Expected Power AC
+V384,DC Energy Delta
+V385,DC Power
+V387,Power Ratio
+V400,DC Energy Delta
+V401,DC Power
+V403,Power Ratio
+V404,Performance Ratio
+V407,Expected Power AC
+V421,Expected Power AC
+V431,Expected Power AC
+V441,Expected Power AC
+V458,DC Energy Delta
+V459,DC Power
+V461,Power Ratio
+V474,DC Energy Delta
+V475,DC Power
+V477,Power Ratio
+V478,Performance Ratio
+V481,Expected Power AC
+V495,Expected Power AC
+V505,Expected Power AC
+V515,Expected Power AC
+V532,DC Energy Delta
+V533,DC Power
+V535,Power Ratio
+V548,DC Energy Delta
+V549,DC Power
+V551,Power Ratio
+V552,Performance Ratio
+V555,Expected Power AC
+V569,Expected Power AC
+V579,Expected Power AC
+V589,Expected Power AC
+V606,DC Energy Delta
+V607,DC Power
+V609,Power Ratio
+V622,DC Energy Delta
+V623,DC Power
+V625,Power Ratio
+V626,Performance Ratio
+V629,Expected Power AC
+V643,Expected Power AC
+V653,Expected Power AC
+V663,Expected Power AC
+V680,DC Energy Delta
+V681,DC Power
+V683,Power Ratio
+V696,DC Energy Delta
+V697,DC Power
+V699,Power Ratio
+V700,Performance Ratio
+V703,Expected Power AC
+V717,Expected Power AC
+V727,Expected Power AC
+V737,Expected Power AC
+V754,DC Energy Delta
+V755,DC Power
+V757,Power Ratio
+V770,DC Energy Delta
+V771,DC Power
+V773,Power Ratio
+V774,Performance Ratio
+V777,Expected Power AC
+V791,Expected Power AC
+V801,Expected Power AC
+V811,Expected Power AC
+V828,DC Energy Delta
+V829,DC Power
+V831,Power Ratio
+V844,DC Energy Delta
+V845,DC Power
+V847,Power Ratio
+V848,Performance Ratio
+V852,Expected Power AC
+V866,Expected Power AC
+V876,Expected Power AC
+V886,Expected Power AC
+V903,DC Energy Delta
+V904,DC Power
+V906,Power Ratio
+V919,DC Energy Delta
+V920,DC Power
+V922,Power Ratio
+V923,Performance Ratio
+V927,Expected Power AC
+V941,Expected Power AC
+V951,Expected Power AC
+V961,Expected Power AC
+V978,DC Energy Delta
+V979,DC Power
+V981,Power Ratio
+V993,DC Energy Delta
+V994,DC Power
+V996,Power Ratio
+V998,Performance Ratio
